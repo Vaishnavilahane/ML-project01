@@ -11,5 +11,6 @@ Price_per_sqft vs count
 ![image](https://github.com/user-attachments/assets/c362823d-33d8-4aa0-ba3b-dc60c5f6b49e)
 
 
-best scores for 3 different models
+Best scores for 3 different models
+
 ![image](https://github.com/user-attachments/assets/aca7064f-189f-44e6-9c99-2169cdea233c)
